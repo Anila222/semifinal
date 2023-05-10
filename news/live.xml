@@ -1,13 +1,17 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="http://semifinal.ecg.njg.engineering.virginia.edu/news/">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="http://networking.ecg.njg.engineering.virginia.edu/news/">
 <channel>
 <title>University of Virginia</title>
-<link>http://semifinal.ecg.njg.engineering.virginia.edu/news/</link>
+<link>http://networking.ecg.njg.engineering.virginia.edu/news/</link>
 <description/>
 <language>en</language>
-<item><title/><link>http://semifinal.ecg.njg.engineering.virginia.edu/news/ideo-milan-ac-ucl.liv_tv.19.html</link><description/></item>
-<item><title/><link>http://semifinal.ecg.njg.engineering.virginia.edu/news/video-milan-ac-ucl.liv_tv.17.html</link><description/></item>
 <item><title/><link>http://semifinal.ecg.njg.engineering.virginia.edu/news/video-milan.203.html</link><description/></item>
-<item><title/><link>http://semifinal.ecg.njg.engineering.virginia.edu/news/video-milan-inter-us-hs.02.html</link><description/></item>
-<item><title/><link>http://semifinal.ecg.njg.engineering.virginia.edu/news/video-milan-v-inter.liv-trs.16.html</link><description/></item>
+<item><title/><link>http://semifinal.ecg.njg.engineering.virginia.edu/news/video-milan-inter-us-hs.05.html</link><description/></item>
+<item><title/><link>http://semifinal.ecg.njg.engineering.virginia.edu/news/video-milan-inter-us-hs.25.html</link><description/></item>
+<item><title/><link>http://semifinal.ecg.njg.engineering.virginia.edu/news/video-milan-inter-us-hs.26.html</link><description/></item>
+<item><title/><link>http://semifinal.ecg.njg.engineering.virginia.edu/news/video-milan-inter-us-hs.27.html</link><description/></item>
+<item><title/><link>http://semifinal.ecg.njg.engineering.virginia.edu/news/video-milan-inter-us-hs.28.html</link><description/></item>
+<item><title/><link>http://semifinal.ecg.njg.engineering.virginia.edu/news/video-milan-inter-us-hs.054.html</link><description/></item>
+<item><title/><link>http://semifinal.ecg.njg.engineering.virginia.edu/news/video-milan-v-inter.liv-cmp.us.10.html</link><description/></item>
+<item><title/><link>http://semifinal.ecg.njg.engineering.virginia.edu/news/video-milan-v-inter.liv-cmp.us.101.html</link><description/></item>
 </channel>
 </rss>
